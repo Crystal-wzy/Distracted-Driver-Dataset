@@ -8,7 +8,7 @@ Distracted Driver Dataset download
    
    https://heshameraqi.github.io/distraction_detection
    
-### Download
+### Download (unzip code required)
    https://www.kaggle.com/datasets/tejakalepalle/auc-distracted-driver-dataset-v1
 
 ## The State Farm Distracted Driver Dataset
